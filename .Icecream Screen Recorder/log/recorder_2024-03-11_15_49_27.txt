@@ -1,0 +1,313 @@
+
+
+------------------------------------------------------------
+Application started
+15:49:27.046: (I) 14664: Timestamp: QDateTime(2024-03-11 15:49:27.046 Paris, Madrid Qt::LocalTime)
+15:49:27.046: (I) 14664: OS version: "Windows 10 Version 2009"
+15:49:27.046: (I) 14664: Kernel version: "10.0.22631"
+15:49:27.046: (I) 14664: CPU architecture: "x86_64"
+15:49:27.046: (I) 14664: Build ABI: "x86_64-little_endian-llp64"
+15:49:27.046: (I) 14664: Executable: "C:/Program Files (x86)/Icecream Screen Recorder 7/recorder.exe"
+15:49:27.046: (I) 14664: BuildVersion: "7.2.8"
+15:49:27.046: (I) 14664: DisplayVersion: "7.28"
+15:49:27.046: (I) 14664: IceDesktopApp headers: 1.38
+15:49:27.046: (I) 14664: PID: 21180
+15:49:27.046: (I) 14664: Main thread id: 14664
+15:49:27.046: (I) 14664: Qt::AA_EnableHighDpiScaling: true
+15:49:27.046: (I) 14664: Qt::AA_DisableHighDpiScaling: false
+15:49:27.046: (I) 14664: Qt Screen 0: primary, winScale: 125%, pixelRatio: 1.25, logDpi: 96, phyDpi: 113.268, log/phy: 85%, geometry: {x:0, y:0, w: 1536, h: 864}, available: {x:0, y:0, w: 1536, h: 816}
+15:49:27.046: (I) 14664: 
+15:49:27.072: (I) 14664: IceTranslator::IceTranslator()          : Translations directory: "C:/Program Files (x86)/Icecream Screen Recorder 7/translations" , file prefix: "lang" system locale: "fr_FR"
+15:49:27.085: (I) 14664: IceTranslator::translate()              : App translation applyed. Locale: "fr_FR"
+15:49:27.098: (I) 14664: MetricSender::MetricSender()            : send metrics: true
+15:49:27.098: (I) 14664: Splash::showSplash                      : Entering 'Init Splash'
+15:49:27.098: (I) 14664: IceApplication::showSplash()            :   Previously saved screen number: 0
+15:49:27.098: (I) 14664: IceApplication::showSplash()            :   Working geometry: QRect(0,0 1536x864)
+15:49:27.106: (I) 14664: IceStyleManager::IceStyleManager()      :   Init StyleManager done
+15:49:27.106: (I) 14664: IceStyleManager::setCurrentStyle()      :   Set current style: "DefaultStyle"
+15:49:27.106: (I) 14664: IceStyleManager::setCurrentStyle()      :   Default app font was changed to QFont(Segoe UI,-1,14,5,50,0,0,0,0,0)
+15:49:27.486: (I) 14664: Splash::showSplash                      : Leaving 'Init Splash'. Elapsed time: 385
+15:49:27.486: (I) 14664: IceApplication::prepareNetworkAccessMana: Init SSL libraries: begin
+15:49:27.513: (I) 14664: IceApplication::prepareNetworkAccessMana: Init SSL libraries: done, elapsed time: 26 msec , Enabled: true , Version: "OpenSSL 1.1.1p  21 Jun 2022"
+15:49:27.513: (I) 14664: Application::init                       : Entering 'Init app'
+15:49:27.513: (!) 14664: LicenseService::loadLicenseInfo()       :   "License file not found: C:\\Users\\Lenovo\\AppData\\Local\\Icecream\\Icecream Screen Recorder\\v7/license.lic"
+15:49:27.528: (I) 14664: IceRemoteProcHandler::startHandler()    :   "C:/Program Files (x86)/Icecream Screen Recorder 7/uservice.exe"
+15:49:27.551: (I) 14664: Application::runDxDiagGeneration()      :   Run DxDiag generation...
+15:49:27.551: (I) 16892: Application::runDxDiagGeneration::lambda:   Run DxDiag from thread pool...
+15:49:27.551: (I) 16892: Application::runDxDiagGeneration::lambda:   Start dxdiag process: ""
+15:49:27.552: (I) 14664: Application::init                       : Leaving 'Init app'. Elapsed time: 39
+15:49:27.552: (I) 14664: Application::runUpdateChecker           : Entering 'Init update checker...'
+15:49:27.562: (I) 14664: Application::runUpdateChecker           : Leaving 'Init update checker...'. Elapsed time: 10
+15:49:27.562: (I) 14664: Ui::createMainWindow                    : Entering 'Create main window'
+15:49:27.563: (I) 16892: Application::runDxDiagGeneration::lambda:   Wait dxdiag finish...
+15:49:27.563: (I) 14664: IceWindow::IceWindow()                  :   MainWindow(0x232969e3890) early restore geometry: true QRect(231,115 1073x606) dpr: 1.25 QFlags<Qt::WindowState>(WindowNoState)
+15:49:27.593: (I) 14664: IceCloudClient::enableAutoRefresh()     :   disable cloud fetch
+15:49:27.625: (W) 14664:     OpenType support missing for "Segoe UI", script 20
+15:49:27.626: (W) 14664:     OpenType support missing for "MS Shell Dlg 2", script 20
+15:49:27.627: (W) 14664:     OpenType support missing for "Arial", script 20
+15:49:27.627: (W) 14664:     OpenType support missing for "MS UI Gothic", script 20
+15:49:27.628: (W) 14664:     OpenType support missing for "SimSun", script 20
+15:49:27.628: (W) 14664:     OpenType support missing for "Segoe UI Emoji", script 20
+15:49:27.628: (W) 14664:     OpenType support missing for "Segoe UI Symbol", script 20
+15:49:27.629: (W) 14664:     OpenType support missing for "Nirmala UI", script 20
+15:49:27.650: (I) 14664: AudioDeviceInternal::enumAudioDevices() :   Audio output devices count: 1
+15:49:27.651: (I) 14664: AudioDeviceInternal::enumAudioDevices() :     Haut-parleurs (Realtek(R) Audio), id: {0.0.0.00000000}.{4b54f4c0-3306-4b1d-9311-056f998ea4bf}, exclusive use: false, exclusive prefer: false
+15:49:27.653: (I) 14664: AudioDeviceInternal::enumAudioDevices() :   Audio input devices count: 1
+15:49:27.653: (I) 14664: AudioDeviceInternal::enumAudioDevices() :     Réseau de microphones (Technologie Intel® Smart Sound pour microphones numériques), id: {0.0.1.00000000}.{acdbc3f8-a4cd-46c1-8b82-df760256b4eb}, exclusive use: false, exclusive prefer: true
+15:49:27.670: (I) 14664: CameraGrabber::availableDeviceNames()   :   Camera devices count: 1
+15:49:27.670: (I) 14664: CameraGrabber::availableDeviceNames()   :     Integrated Camera
+15:49:27.700: (!) 14664: LicenseService::loadLicenseInfo()       :   "License file not found: C:\\Users\\Lenovo\\AppData\\Local\\Icecream\\Icecream Screen Recorder/license.lic"
+15:49:27.703: (!) 14664: LicenseService::loadLicenseInfo()       :   "License file not found: C:\\Users\\Lenovo\\AppData\\Local\\Icecream\\Icecream Screen Recorder/license.lic"
+15:49:27.705: (I) 14664: WinApiPrivate::WinApiPrivate()          :   DWM composition enabled: true WinApi resolved
+15:49:27.707: (I) 14664: Ui::setHotkeysState()                   :   Global hotkeys state changed from Ui::HotkeysState::Unknown to Ui::HotkeysState::MainWindow
+15:49:27.709: (I) 14664: Ui::createMainWindow                    : Leaving 'Create main window'. Elapsed time: 146
+15:49:27.905: (I) 14664: Updater::onFinished()                   : Updater. exit code: 0 status: "NormalExit"
+15:49:27.909: (I) 14664: Updater::handleResponse()               : Compare versions.  server version: "7.36" current version: 7.28 result: 8
+15:49:27.909: (I) 14664: Updater::handleResponse()               : Emit newVersionAvalible: "7.36"
+15:49:27.923: (I) 14664: IceWindow::Private::onScreenChanged()   : IceMessageBox(0xe07c8fb3c0) initial pixel ratio: 1.25 initial screen: QScreen(0x232946860a0, name="\\\\.\\DISPLAY1")
+15:49:29.153: (I) 14664: IceSplash::Private::onMinDurationReached: Splash min wait time is reached and app is ready. Show existing mainWindow or create it
+15:49:29.153: (I) 14664: IceSplash::Private::onMinDurationReached: Main window already exists. Finish splash using MainWindow(0x232969e3890)
+15:49:29.154: (I) 14664: IceWindow::Private::onScreenChanged()   : MainWindow(0x232969e3890) initial pixel ratio: 1.25 initial screen: QScreen(0x232946860a0, name="\\\\.\\DISPLAY1")
+15:49:29.165: (I) 14664: IceCloudClient::enableAutoRefresh()     : disable cloud fetch
+15:49:42.505: (I) 14664: IceWindow::Private::onScreenChanged()   : IcePopupButtonPopup(0x23299ab22e0) initial pixel ratio: 1.25 initial screen: QScreen(0x232946860a0, name="\\\\.\\DISPLAY1")
+15:49:44.786: (I) 14664: IceWindow::Private::onScreenChanged()   : IcePopupButtonPopup(0x23299a748f0) initial pixel ratio: 1.25 initial screen: QScreen(0x232946860a0, name="\\\\.\\DISPLAY1")
+15:49:45.151: (I) 14664: IceCloudClient::enableAutoRefresh()     : disable cloud fetch
+15:49:45.152: (I) 14664: BasePanelController::BasePanelController: Init camera view
+15:49:45.152: (I) 14664: Surface::Surface()                      : Init "Surface for \\\\.\\DISPLAY1" QRect(0,0 1536x864)
+15:49:45.152: (I) 14664: Surface::Surface()                      : Surface(0x2329d9d4590, name="Surface for \\\\.\\DISPLAY1") screenRectGlobalRaw QRect(0,0 1920x1080)
+15:49:45.157: (I) 14664: RecordVideoController::RecordVideoContro: Entering 'Init RecordVideoController'
+15:49:45.158: (I) 14664: Ui::setHotkeysState()                   :   Global hotkeys state changed from Ui::HotkeysState::MainWindow to Ui::HotkeysState::NonInteractive
+15:49:45.189: (I) 14664: RecordVideoController::RecordVideoContro: Leaving 'Init RecordVideoController'. Elapsed time: 30
+15:49:52.986: (I) 16892: Application::runDxDiagGeneration::lambda: Wait dxdiag finished
+15:49:52.986: (I) 16892: Application::runDxDiagGeneration::lambda: Dxdiag tool completed with status: QProcess::NormalExit exit code: 0 error code: QProcess::UnknownError
+15:49:55.080: (I) 14664: Surface::mouseReleaseEvent              : Entering 'MOUSE RELEASE'
+15:49:55.080: (I) 14664: RecordVideoController::initPanel()      :   Init video panel
+15:49:55.080: (I) 14664: RecordVideoPanel::RecordVideoPanel      :   Entering 'Create RecordVideoPanel'
+15:49:55.088: (I) 14664: PanelVolumeButton::setDevice            :     Entering 'Init input device'
+15:49:55.088: (I) 14664: AudioDeviceInternal::enumAudioDevices() :       Audio input devices count: 1
+15:49:55.088: (I) 14664: AudioDeviceInternal::enumAudioDevices() :         Réseau de microphones (Technologie Intel® Smart Sound pour microphones numériques), id: {0.0.1.00000000}.{acdbc3f8-a4cd-46c1-8b82-df760256b4eb}, exclusive use: true, exclusive prefer: true
+15:49:55.088: (I) 14664: AudioDevice::checkAudioDevice()         :       Founded default device ID: "{0.0.1.00000000}.{acdbc3f8-a4cd-46c1-8b82-df760256b4eb}"
+15:49:55.088: (I) 14664: PanelVolumeButton::setDevice()          :       Requested deviceId: "" Checked deviceId: "{0.0.1.00000000}.{acdbc3f8-a4cd-46c1-8b82-df760256b4eb}"
+15:49:55.088: (I) 14664: PanelVolumeButton::setDevice            :     Leaving 'Init input device'. Elapsed time: 3
+15:49:55.088: (I) 14664: PanelVolumeButton::setDevice            :     Entering 'Init output device'
+15:49:55.088: (I) 16364: AudioDeviceInternal::open()             :       Open audio device: "{0.0.1.00000000}.{acdbc3f8-a4cd-46c1-8b82-df760256b4eb}"
+15:49:55.088: (I) 14664: AudioDeviceInternal::enumAudioDevices() :       Audio output devices count: 1
+15:49:55.088: (I) 14664: AudioDeviceInternal::enumAudioDevices() :         Haut-parleurs (Realtek(R) Audio), id: {0.0.0.00000000}.{4b54f4c0-3306-4b1d-9311-056f998ea4bf}, exclusive use: true, exclusive prefer: true
+15:49:55.096: (I) 14664: AudioDevice::checkAudioDevice()         :       Founded default device ID: "{0.0.0.00000000}.{4b54f4c0-3306-4b1d-9311-056f998ea4bf}"
+15:49:55.096: (I) 14664: PanelVolumeButton::setDevice()          :       Requested deviceId: "" Checked deviceId: "{0.0.0.00000000}.{4b54f4c0-3306-4b1d-9311-056f998ea4bf}"
+15:49:55.096: (I) 14664: PanelVolumeButton::setDevice            :     Leaving 'Init output device'. Elapsed time: 4
+15:49:55.096: (I) 14664: RecordVideoPanel::RecordVideoPanel      :   Leaving 'Create RecordVideoPanel'. Elapsed time: 14
+15:49:55.096: (I)  6092: AudioDeviceInternal::open()             :   Open audio device: "{0.0.0.00000000}.{4b54f4c0-3306-4b1d-9311-056f998ea4bf}"
+15:49:55.096: (I) 14664: Recorder::Recorder()                    :   Instance created Recorder(0x2329daddf90)
+15:49:55.096: (I) 14664: DrawToolsPanel::DrawToolsPanel()        :   Create DrawToolsPanel
+15:49:55.106: (I) 14664: CameraGrabber::availableDeviceNames()   :   Camera devices count: 1
+15:49:55.106: (I) 14664: CameraGrabber::availableDeviceNames()   :     Integrated Camera
+15:49:55.116: (I) 18280: CAudioSessionEvents::OnStateChanged()   :   New session state: "active"
+15:49:55.116: (I) 14664: IceWindow::Private::onScreenChanged()   :   RecordVideoPanel(0x2329dbe04a0) initial pixel ratio: 1.25 initial screen: QScreen(0x232946860a0, name="\\\\.\\DISPLAY1")
+15:49:55.121: (I) 14664: BasePanelWindow::LogoOverlay::maybeStart:   Distance to mouse: 731.302 , show animation overlay
+15:49:55.137: (I) 14664: Ui::setHotkeysState()                   :   Global hotkeys state changed from Ui::HotkeysState::NonInteractive to Ui::HotkeysState::VideoStopped
+15:49:55.137: (I) 14664: Surface::mouseReleaseEvent              : Leaving 'MOUSE RELEASE'. Elapsed time: 58
+15:49:55.197: (I) 15960: CAudioSessionEvents::OnStateChanged()   : New session state: "active"
+15:50:01.396: (I) 14664: RecordVideoController::onStartPauseClick: Entering 'RecordVideoController::onStartPauseClicked()'
+15:50:01.396: (I) 14664: Ui::setHotkeysState()                   :   Global hotkeys state changed from Ui::HotkeysState::VideoStopped to Ui::HotkeysState::NonInteractive
+15:50:01.399: (I) 14664: RecordVideoController::onStartPauseClick:   Available disk space: ' 34298  (Mb)' Limit: ' 1024  (Mb)'
+15:50:01.414: (I) 14664: IceWindow::Private::onScreenChanged()   :   IceMessageBox(0xe07c8faec0) initial pixel ratio: 1.25 initial screen: QScreen(0x232946860a0, name="\\\\.\\DISPLAY1")
+15:50:04.656: (I) 14664: RecordVideoController::onStartPauseClick:   Start record
+15:50:04.890: (I) 14664: Ui::setHotkeysState()                   :   Global hotkeys state changed from Ui::HotkeysState::NonInteractive to Ui::HotkeysState::VideoCountdown
+15:50:04.890: (I) 14664: RecordVideoController::startCountDown() :   Start countdown
+15:50:04.890: (I) 14664: RecordVideoController::onStartPauseClick: Leaving 'RecordVideoController::onStartPauseClicked()'. Elapsed time: 3493
+15:50:07.990: (I) 14664: RecordVideoController::onCountDownTimeou: Countdown finished
+15:50:07.990: (I) 14664: RecordVideoController::stopCountDown()  : Stop countdown
+15:50:07.990: (I) 14664: RecorderSettingsReader::readVideoSetting: -[Read record settings]-
+15:50:07.990: (I) 14664: RecorderSettingsReader::readVideoSetting: Draw mouse cursor: true
+15:50:07.990: (I) 14664: RecorderSettingsReader::readVideoSetting: Hightlight mouse cursor: false
+15:50:07.990: (I) 14664: RecorderSettingsReader::readVideoSetting: Animate mouse clicks: true
+15:50:07.990: (I) 14664: RecorderSettingsReader::readVideoSetting: Draw watermark: true
+15:50:07.990: (I) 14664: RecorderSettingsReader::readVideoSetting: Watermark opacity: 66
+15:50:07.990: (I) 14664: RecorderSettingsReader::readVideoSetting: Watermark path: ":/svg/watermark.svg"
+15:50:07.990: (I) 14664: RecorderSettingsReader::readVideoSetting: Save folder path: "C:/Users/Lenovo/Videos/Icecream Screen Recorder/"
+15:50:07.990: (I) 14664: RecorderSettingsReader::readVideoSetting: Min free space: 1073741824 bytes ( 1024 Mb )
+15:50:07.990: (I) 14664: RecorderSettingsReader::readVideoSetting: Max file size: 4294967296 bytes ( 4096 Mb )
+15:50:07.990: (I) 14664: RecorderSettingsReader::readVideoSetting: Disable screen saver: false
+15:50:07.990: (I) 14664: AudioDeviceInternal::enumAudioDevices() : Audio input devices count: 1
+15:50:07.990: (I) 14664: AudioDeviceInternal::enumAudioDevices() :   Réseau de microphones (Technologie Intel® Smart Sound pour microphones numériques), id: {0.0.1.00000000}.{acdbc3f8-a4cd-46c1-8b82-df760256b4eb}, exclusive use: true, exclusive prefer: true
+15:50:07.990: (I) 14664: AudioDeviceInternal::open()             : Open audio device: "{0.0.1.00000000}.{acdbc3f8-a4cd-46c1-8b82-df760256b4eb}"
+15:50:08.007: (I) 14664: RecorderSettingsReader::readVideoSetting: Write microphone: [YES]
+15:50:08.007: (I) 14664: RecorderSettingsReader::readVideoSetting: Audio microphone device id: ""
+15:50:08.007: (I) 14664: AudioDeviceInternal::enumAudioDevices() : Audio output devices count: 1
+15:50:08.007: (I) 14664: AudioDeviceInternal::enumAudioDevices() :   Haut-parleurs (Realtek(R) Audio), id: {0.0.0.00000000}.{4b54f4c0-3306-4b1d-9311-056f998ea4bf}, exclusive use: true, exclusive prefer: true
+15:50:08.007: (I) 14664: AudioDeviceInternal::open()             : Open audio device: "{0.0.0.00000000}.{4b54f4c0-3306-4b1d-9311-056f998ea4bf}"
+15:50:08.023: (I) 14664: RecorderSettingsReader::readVideoSetting: Write systemsound: [YES]
+15:50:08.023: (I) 14664: RecorderSettingsReader::readVideoSetting: Audio systemsound device id: ""
+15:50:08.057: (I) 14664: Recorder::readSettings()                : Capture rect: QRect(0,111 1920x909)
+15:50:08.057: (I) 14664: Recorder::init()                        : Video RESOLUTION #1: QSize(1920, 909)
+15:50:08.057: (I) 14664: Recorder::init()                        : Video RESOLUTION #3: QSize(1920, 909)
+15:50:08.057: (I) 14664: VideoEncoder::open                      : Entering 'Video encoder start'
+15:50:08.063: (I) 14664: VideoEncoder::open()                    :   AV codec register all [OK]
+15:50:08.072: (I) 14664: VideoEncoder::createVideoStream         :   Entering 'Create output video stream'
+15:50:08.077: (I) 14664: VideoEncoder::createVideoStream()       :     Video Codec ID: vp8 Name long: libvpx VP8 Name short: libvpx
+15:50:08.080: (I) 14664: VideoEncoder::createVideoStream         :   Leaving 'Create output video stream'. Elapsed time: 7
+15:50:08.080: (I) 14664: VideoEncoder::open()                    :   create output video stream [OK]
+15:50:08.080: (I) 14664: VideoEncoder::openVideoStream           :   Entering 'Open video output stream'
+15:50:08.088: (I) 14664: VideoEncoder::openVideoStream()         :     Bitrate: 14644224 Threads: 3
+15:50:08.088: (I) 14664: VideoEncoder::openVideoStream           :   Leaving 'Open video output stream'. Elapsed time: 12
+15:50:08.088: (I) 14664: VideoEncoder::open()                    :   Open output video stream [OK]
+15:50:08.088: (I) 14664: VideoEncoder::createAudioStream         :   Entering 'Create audio output stream'
+15:50:08.088: (I) 14664: VideoEncoder::createAudioStream()       :     Audio Codec ID: vorbis Name long: libvorbis Name short: libvorbis
+15:50:08.088: (I) 14664: VideoEncoder::createAudioStream         :   Leaving 'Create audio output stream'. Elapsed time: 0
+15:50:08.088: (I) 14664: VideoEncoder::openAudioStream           :   Entering 'Open audio output stream)'
+15:50:08.107: (I) 14664: VideoEncoder::openAudioStream           :   Leaving 'Open audio output stream)'. Elapsed time: 14
+15:50:08.112: (I) 14664: VideoEncoder::open()                    :   Video encoder info: "File path:C:\\Users\\Lenovo\\Videos\\Icecream Screen Recorder\\Video_2024_03_11-1.webm\n Video:\nCodec:vp8\n\n Audio:\nCodec:vorbis\n\n"
+15:50:08.112: (I) 14664: VideoEncoder::open                      : Leaving 'Video encoder start'. Elapsed time: 54
+15:50:08.122: (I) 11892: AudioGrabber::Init()                    : PortAudio initialize [OK]
+15:50:08.122: (I) 11892: AudioGrabber::availableOutputDevices()  : Host Api Count: 1
+15:50:08.122: (I) 11892: AudioGrabber::availableOutputDevices()  : WASAPI host found. Device count: 3
+15:50:08.122: (I) 11892: Recorder::run::lambda()                 : "PortAudio input devices:" : "Device name:'Réseau de microphones (Technologie Intel® Smart Sound pour microphones numériques)' id:'{0.0.1.00000000}.{acdbc3f8-a4cd-46c1-8b82-df760256b4eb}';"
+15:50:08.122: (I) 11892: Recorder::run::lambda()                 : "PortAudio output devices:" : "Device name:'Haut-parleurs (Realtek(R) Audio)' id:'{0.0.0.00000000}.{4b54f4c0-3306-4b1d-9311-056f998ea4bf}';"
+15:50:08.123: (I) 11892: Recorder::setState()                    : Recorder::setState 1
+15:50:08.123: (I) 14664: RecordVideoController::onRecordStatedCha: State InitState
+15:50:08.123: (I) 11892: AudioGrabber::start()                   : Open audio [BEGIN]
+15:50:08.123: (I) 11892: AudioGrabber::availableOutputDevices()  : Host Api Count: 1
+15:50:08.123: (I) 11892: AudioGrabber::availableOutputDevices()  : WASAPI host found. Device count: 3
+15:50:08.133: (I) 11892: AudioGrabber::start()                   : Open mic device [BEGIN]
+15:50:08.133: (I) 11892: AudioGrabber::start()                   : Device name:'Réseau de microphones (Technologie Intel® Smart Sound pour microphones numériques)' Max channels:'2' Selected channels:'2'
+15:50:08.144: (I) 11892: AudioGrabber::start()                   : Open mic device [OK]
+15:50:08.144: (I) 11892: AudioGrabber::start()                   : Open loopback device [BEGIN]
+15:50:08.144: (I) 11892: AudioGrabber::start()                   : Device name:'Haut-parleurs (Realtek(R) Audio)' Max channels:'2' Selected channels:'2'
+15:50:08.151: (I) 11892: AudioGrabber::start()                   : Open loopback device [OK]
+15:50:08.154: (I) 11892: AudioGrabber::start()                   : Open audio [OK]
+15:50:08.154: (I) 11892: Recorder::setState()                    : Recorder::setState 2
+15:50:08.155: (I) 14664: Ui::setHotkeysState()                   : Global hotkeys state changed from Ui::HotkeysState::VideoCountdown to Ui::HotkeysState::VideoRec
+15:50:08.189: (I) 18948: ScreenGrabberWorker::run()              : Find monitor for rect: QRect(0,111 1920x909)
+15:50:08.192: (I) 18948: ScreenGrabberWorker::run()              : Starting DDA screen "\\\\.\\DISPLAY1" grab on "Intel(R) Iris(R) Xe Graphics"
+15:50:08.192: (I) 18948: ScreenGrabberWorker::run()              : Init GDI capturing
+15:50:08.192: (I) 18948: VideoEncoder::getNewFrame()             : Allocate frame buffer: "0x00000232a9ded060"
+15:50:08.238: (I) 18948: VideoEncoder::getNewFrame()             : Allocate frame buffer: "0x00000232abb41060"
+15:50:25.222: (W) 14664: MetricSender::sendNext::lambda()        : Send analitics failed: "Connection closed"
+15:55:08.401: (I) 14664: Recorder::slot_check_progress()         : Record auto stop. Time limit
+15:55:08.401: (I) 14664: RecordVideoController::onStopClicked    : Entering 'RecordVideoController::onStopClicked()'
+15:55:08.401: (I) 14664: Ui::setHotkeysState()                   :   Global hotkeys state changed from Ui::HotkeysState::VideoRec to Ui::HotkeysState::NonInteractive
+15:55:08.404: (I) 11892: Recorder::run()                         :   Video capture [STOP]
+15:55:08.404: (I) 11892: Recorder::run()                         :   Video capture [STOP COMPLETE]
+15:55:08.404: (I) 11892: Recorder::run()                         :   Video capture [WAIT]
+15:55:08.419: (I) 11892: Recorder::run()                         :   Video capture [WAIT COMPLETE]
+15:55:08.419: (I) 11892: Recorder::run()                         :   Mix worker [STOP]
+15:55:08.419: (I) 11892: Recorder::run()                         :   Mix worker [STOP COMPLETE]
+15:55:08.419: (I) 11892: Recorder::run()                         :   Mix worker [WAIT]
+15:55:08.434: (I) 11892: Recorder::run()                         :   Mix worker [WAIT COMPLETE]
+15:55:08.438: (I) 11892: VideoEncoder::cleanup()                 :   Video packets count: 0
+15:55:08.438: (I) 11892: VideoEncoder::cleanup()                 :   Free mem packets count: 2
+15:55:08.438: (I) 11892: VideoEncoder::cleanup()                 :   Free frame buffer: "0x00000232a9ded060"
+15:55:08.438: (I) 11892: VideoEncoder::cleanup()                 :   Free frame buffer: "0x00000232abb41060"
+15:55:08.438: (I) 11892: Recorder::saveResult()                  :   "Video frame added:'8824' Video frame writed:'8824' Audio frame added:'8616' Audio frame writed:'8616' "
+15:55:08.438: (I) 11892: Recorder::saveResult()                  :   Record complete. Save to: 'C:\Users\Lenovo\Videos\Icecream Screen Recorder\Video_2024_03_11-1.webm' Time (s):'300' File size: '54689316'
+15:55:08.438: (I) 11892: Recorder::saveResult()                  :   Audio analitics: "lbZeroBlockCount:'17', lbNonZeroBlockCount:'1742', lbZeroBlockSamplesCount:'127949', lbNonZeroBlockSamplesCount:'13110973', cpZeroBlockCount:'0', cpNonZeroBlockCount:'1759', cpZeroBlockSamplesCount:'0', cpNonZeroBlockSamplesCount:'13238922', cpLoopbackBufferOverflowCount:'0' cpCaptureBufferOverflowCount:'0'"
+15:55:08.438: (I) 11892: Recorder::setState()                    :   Recorder::setState 0
+15:55:08.444: (I) 14664: RecordVideoController::onStopClicked    : Leaving 'RecordVideoController::onStopClicked()'. Elapsed time: 43
+15:55:08.444: (I) 14664: RecordVideoController::onHaveRecord     : Entering 'RecordVideoController::onHaveRecord()'
+15:55:08.454: (I) 14664: RecordVideoController::onRecordStatedCha:   State StoppedState
+15:55:08.461: (I) 14664: RecordVideoController::onRecordStatedCha:   State InitState
+15:55:08.485: (!) 14664: LicenseService::loadLicenseInfo()       :   "License file not found: C:\\Users\\Lenovo\\AppData\\Local\\Icecream\\Icecream Screen Recorder/license.lic"
+15:55:08.504: (I) 14664: IceWindow::Private::onScreenChanged()   :   RenameFileDialog(0xe07c8fb450) initial pixel ratio: 1.25 initial screen: QScreen(0x232946860a0, name="\\\\.\\DISPLAY1")
+15:56:27.980: (I) 14664: RenameFileDialog::renameFile()          :   Accepted rename. Name changed: NO
+15:56:28.018: (I) 14664: IceWindow::Private::onScreenChanged()   :   IceNotificationWindow_1(0x2329df953f0) initial pixel ratio: 1.25 initial screen: QScreen(0x232946860a0, name="\\\\.\\DISPLAY1")
+15:56:28.023: (I) 14664: HistoryModel::save()                    :   Save history
+15:56:28.023: (I) 14664: BasePanelController::closeStuff         :   Entering 'Close stuff'
+15:56:28.199: (I) 14664: BasePanelController::closeStuff         :   Leaving 'Close stuff'. Elapsed time: 175
+15:56:28.199: (I) 14664: RecordVideoController::onHaveRecord     : Leaving 'RecordVideoController::onHaveRecord()'. Elapsed time: 79752
+15:56:28.201: (I) 14664: RecordVideoPanel::~RecordVideoPanel     : Entering 'Destroy RecordVideoPanel'
+15:56:28.251: (I) 22140: CAudioSessionEvents::OnStateChanged()   :   New session state: "inactive"
+15:56:28.266: (I) 14664: RecordVideoPanel::~RecordVideoPanel     : Leaving 'Destroy RecordVideoPanel'. Elapsed time: 64
+15:56:28.267: (I) 14664: DrawToolsPanel::~DrawToolsPanel()       : Destroy DrawToolsPanel
+15:56:28.269: (I) 14664: Surface::~Surface()                     : Delete "Surface for \\\\.\\DISPLAY1"
+15:56:28.275: (I) 14664: RecordVideoController::~RecordVideoContr: Entering 'Destroy RecordVideoController'
+15:56:28.275: (I) 14664: Recorder::~Recorder()                   :   Instance destroyed Recorder(0x2329daddf90)
+15:56:28.280: (I) 14664: RecordVideoController::~RecordVideoContr: Leaving 'Destroy RecordVideoController'. Elapsed time: 4
+15:56:28.280: (I) 14664: CameraView::~CameraView                 : Entering 'Destroy'
+15:56:28.280: (I) 14664: CameraView::~CameraView                 : Leaving 'Destroy'. Elapsed time: 0
+15:56:28.281: (I) 14664: MainWindow::onPanelControllerDestroyed  : Entering 'MainWindow::onPanelControllerDestroyed'
+15:56:28.281: (I) 14664: Ui::setHotkeysState()                   :   Global hotkeys state changed from Ui::HotkeysState::NonInteractive to Ui::HotkeysState::MainWindow
+15:56:28.281: (I) 14664: MainWindow::ensureVisible()             :   Restore main window from closed state
+15:56:28.298: (I) 14664: IceCloudClient::enableAutoRefresh()     :   disable cloud fetch
+15:56:28.315: (I) 14664: MainWindow::onPanelControllerDestroyed  : Leaving 'MainWindow::onPanelControllerDestroyed'. Elapsed time: 34
+15:57:08.961: (I) 14664: IceCloudClient::enableAutoRefresh()     : disable cloud fetch
+21:20:43.238: (I) 14664: IceCloudClient::enableAutoRefresh()     : disable cloud fetch
+21:20:43.578: (I) 14664: main::lambda()                          : Internet STATUS: false
+21:20:43.586: (I) 14664: main::lambda()                          : Internet STATUS: true
+21:35:07.269: (I) 14664: main::lambda()                          : Internet STATUS: false
+21:35:07.566: (I) 14664: main::lambda()                          : Internet STATUS: true
+21:35:09.051: (I) 14664: main::lambda()                          : Internet STATUS: false
+21:35:09.051: (I) 14664: main::lambda()                          : Internet STATUS: true
+00:23:16.250: (I) 14664: main::lambda()                          : Internet STATUS: false
+00:23:16.266: (I) 14664: main::lambda()                          : Internet STATUS: true
+00:57:49.937: (I) 14664: main::lambda()                          : Internet STATUS: false
+00:57:59.018: (I) 14664: main::lambda()                          : Internet STATUS: true
+01:03:54.645: (I) 14664: IceCloudClient::enableAutoRefresh()     : disable cloud fetch
+01:03:54.649: (I) 14664: IceCloudClient::enableAutoRefresh()     : disable cloud fetch
+12:58:08.246: (I) 14664: main::lambda()                          : Internet STATUS: false
+12:58:08.253: (I) 14664: main::lambda()                          : Internet STATUS: true
+15:41:28.277: (I) 14664: main::lambda()                          : Internet STATUS: false
+15:41:30.113: (I) 14664: main::lambda()                          : Internet STATUS: false
+15:41:36.560: (I) 14664: main::lambda()                          : Internet STATUS: true
+15:53:18.675: (I) 14664: main::lambda()                          : Internet STATUS: false
+15:53:21.441: (I) 14664: main::lambda()                          : Internet STATUS: false
+15:53:22.610: (I) 14664: main::lambda()                          : Internet STATUS: true
+15:54:24.562: (I) 14664: main::lambda()                          : Internet STATUS: false
+15:54:24.578: (I) 14664: main::lambda()                          : Internet STATUS: false
+15:54:26.080: (I) 14664: main::lambda()                          : Internet STATUS: false
+15:54:26.620: (I) 14664: main::lambda()                          : Internet STATUS: false
+15:54:26.628: (I) 14664: main::lambda()                          : Internet STATUS: false
+15:54:33.413: (I) 14664: main::lambda()                          : Internet STATUS: false
+15:54:41.379: (I) 14664: main::lambda()                          : Internet STATUS: false
+15:54:41.379: (I) 14664: main::lambda()                          : Internet STATUS: false
+15:54:42.263: (I) 14664: main::lambda()                          : Internet STATUS: false
+15:54:43.395: (I) 14664: main::lambda()                          : Internet STATUS: false
+15:54:43.395: (I) 14664: main::lambda()                          : Internet STATUS: false
+15:54:44.410: (I) 14664: main::lambda()                          : Internet STATUS: true
+17:52:48.674: (I) 14664: main::lambda()                          : Internet STATUS: false
+17:52:48.682: (I) 14664: main::lambda()                          : Internet STATUS: true
+17:52:48.682: (I) 14664: main::lambda()                          : Internet STATUS: false
+17:52:48.682: (I) 14664: main::lambda()                          : Internet STATUS: true
+18:12:25.166: (I) 14664: main::lambda()                          : Internet STATUS: false
+18:12:26.550: (I) 14664: main::lambda()                          : Internet STATUS: false
+18:12:30.688: (I) 14664: main::lambda()                          : Internet STATUS: true
+21:14:50.255: (I) 14664: main::lambda()                          : Internet STATUS: false
+21:14:51.047: (I) 14664: main::lambda()                          : Internet STATUS: false
+21:14:55.788: (I) 14664: main::lambda()                          : Internet STATUS: true
+21:15:27.139: (I) 14664: main::lambda()                          : Internet STATUS: false
+21:15:27.144: (I) 14664: main::lambda()                          : Internet STATUS: false
+21:15:27.145: (I) 14664: main::lambda()                          : Internet STATUS: false
+21:15:27.158: (I) 14664: main::lambda()                          : Internet STATUS: false
+21:15:30.935: (I) 14664: main::lambda()                          : Internet STATUS: false
+21:15:31.503: (I) 14664: main::lambda()                          : Internet STATUS: true
+21:15:37.302: (I) 14664: main::lambda()                          : Internet STATUS: false
+21:15:38.583: (I) 14664: main::lambda()                          : Internet STATUS: false
+21:15:39.352: (I) 14664: main::lambda()                          : Internet STATUS: true
+16:35:03.048: (I) 14664: main::lambda()                          : Internet STATUS: false
+16:35:03.048: (I) 14664: main::lambda()                          : Internet STATUS: true
+19:20:18.417: (I) 14664: main::lambda()                          : Internet STATUS: false
+19:20:18.425: (I) 14664: main::lambda()                          : Internet STATUS: true
+19:29:11.294: (I) 14664: main::lambda()                          : Internet STATUS: false
+19:29:11.862: (I) 14664: main::lambda()                          : Internet STATUS: true
+21:09:54.248: (I) 14664: main::lambda()                          : Internet STATUS: false
+21:09:58.633: (I) 14664: main::lambda()                          : Internet STATUS: false
+21:10:00.275: (I) 14664: main::lambda()                          : Internet STATUS: true
+22:38:00.294: (I) 14664: main::lambda()                          : Internet STATUS: false
+22:38:00.296: (I) 14664: main::lambda()                          : Internet STATUS: true
+01:59:32.236: (I) 14664: main::lambda()                          : Internet STATUS: false
+01:59:32.238: (I) 14664: main::lambda()                          : Internet STATUS: true
+03:58:02.674: (I) 14664: main::lambda()                          : Internet STATUS: false
+03:58:29.993: (I) 14664: main::lambda()                          : Internet STATUS: false
+03:58:29.994: (I) 14664: main::lambda()                          : Internet STATUS: false
+03:58:33.552: (I) 14664: main::lambda()                          : Internet STATUS: false
+03:58:34.344: (I) 14664: main::lambda()                          : Internet STATUS: false
+03:58:34.347: (I) 14664: main::lambda()                          : Internet STATUS: false
+03:58:47.682: (I) 14664: main::lambda()                          : Internet STATUS: false
+03:59:02.662: (I) 14664: main::lambda()                          : Internet STATUS: true
+05:50:52.076: (I) 14664: main::lambda()                          : Internet STATUS: false
+05:50:52.076: (I) 14664: main::lambda()                          : Internet STATUS: true
+05:50:52.077: (I) 14664: main::lambda()                          : Internet STATUS: false
+05:50:52.122: (I) 14664: main::lambda()                          : Internet STATUS: true
+15:26:51.193: (I) 14664: main::lambda()                          : Internet STATUS: false
+15:26:52.260: (I) 14664: main::lambda()                          : Internet STATUS: false
+15:26:52.781: (I) 14664: main::lambda()                          : Internet STATUS: true

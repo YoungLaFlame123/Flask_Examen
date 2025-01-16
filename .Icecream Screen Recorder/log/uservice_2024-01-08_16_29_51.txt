@@ -1,0 +1,20 @@
+
+
+------------------------------------------------------------
+Application started
+16:29:51.947: (I) 14232: Timestamp: QDateTime(2024-01-08 16:29:51.947 Paris, Madrid Qt::LocalTime)
+16:29:51.947: (I) 14232: OS version: "Windows 10 Version 2009"
+16:29:51.947: (I) 14232: Kernel version: "10.0.22631"
+16:29:51.947: (I) 14232: CPU architecture: "x86_64"
+16:29:51.947: (I) 14232: Build ABI: "x86_64-little_endian-llp64"
+16:29:51.947: (I) 14232: Executable: "C:/Program Files (x86)/Icecream Screen Recorder 7/uservice.exe"
+16:29:51.947: (I) 14232: BuildVersion: "1.0.6"
+16:29:51.947: (I) 14232: DisplayVersion: ""
+16:29:51.947: (I) 14232: PID: 14228
+16:29:51.947: (I) 14232: Main thread id: 14232
+16:29:51.947: (I) 14232: Qt::AA_EnableHighDpiScaling: false
+16:29:51.947: (I) 14232: Qt::AA_DisableHighDpiScaling: false
+16:29:51.947: (I) 14232: Qt Screen 0: primary, winScale: 100%, pixelRatio: 1, logDpi: 120, phyDpi: 141.585, log/phy: 85%, geometry: {x:0, y:0, w: 1920, h: 1080}, available: {x:0, y:0, w: 1920, h: 1020}
+16:29:51.947: (I) 14232: 
+08:27:07.545: (I) 14232: System close requested (installer or shutdown)
+08:27:07.561: (I) 14232: Request pahse 2

@@ -1,0 +1,18 @@
+
+
+------------------------------------------------------------
+Application started
+15:49:27.570: (I) 15208: Timestamp: QDateTime(2024-03-11 15:49:27.569 Paris, Madrid Qt::LocalTime)
+15:49:27.570: (I) 15208: OS version: "Windows 10 Version 2009"
+15:49:27.570: (I) 15208: Kernel version: "10.0.22631"
+15:49:27.570: (I) 15208: CPU architecture: "x86_64"
+15:49:27.570: (I) 15208: Build ABI: "x86_64-little_endian-llp64"
+15:49:27.570: (I) 15208: Executable: "C:/Program Files (x86)/Icecream Screen Recorder 7/uservice.exe"
+15:49:27.570: (I) 15208: BuildVersion: "1.0.6"
+15:49:27.570: (I) 15208: DisplayVersion: ""
+15:49:27.570: (I) 15208: PID: 17744
+15:49:27.570: (I) 15208: Main thread id: 15208
+15:49:27.570: (I) 15208: Qt::AA_EnableHighDpiScaling: false
+15:49:27.570: (I) 15208: Qt::AA_DisableHighDpiScaling: false
+15:49:27.570: (I) 15208: Qt Screen 0: primary, winScale: 100%, pixelRatio: 1, logDpi: 120, phyDpi: 141.585, log/phy: 85%, geometry: {x:0, y:0, w: 1920, h: 1080}, available: {x:0, y:0, w: 1920, h: 1020}
+15:49:27.570: (I) 15208: 

@@ -1,0 +1,20 @@
+
+
+------------------------------------------------------------
+Application started
+20:32:03.248: (I) 12856: Timestamp: QDateTime(2024-02-05 20:32:03.248 Paris, Madrid Qt::LocalTime)
+20:32:03.248: (I) 12856: OS version: "Windows 10 Version 2009"
+20:32:03.248: (I) 12856: Kernel version: "10.0.22631"
+20:32:03.248: (I) 12856: CPU architecture: "x86_64"
+20:32:03.248: (I) 12856: Build ABI: "x86_64-little_endian-llp64"
+20:32:03.248: (I) 12856: Executable: "C:/Program Files (x86)/Icecream Screen Recorder 7/uservice.exe"
+20:32:03.248: (I) 12856: BuildVersion: "1.0.6"
+20:32:03.248: (I) 12856: DisplayVersion: ""
+20:32:03.248: (I) 12856: PID: 12852
+20:32:03.248: (I) 12856: Main thread id: 12856
+20:32:03.248: (I) 12856: Qt::AA_EnableHighDpiScaling: false
+20:32:03.248: (I) 12856: Qt::AA_DisableHighDpiScaling: false
+20:32:03.248: (I) 12856: Qt Screen 0: primary, winScale: 100%, pixelRatio: 1, logDpi: 120, phyDpi: 141.585, log/phy: 85%, geometry: {x:0, y:0, w: 1920, h: 1080}, available: {x:0, y:0, w: 1920, h: 1020}
+20:32:03.248: (I) 12856: 
+20:34:26.307: (I) 12856: close connection
+20:34:26.323: (I) 12856: Exit remote randler

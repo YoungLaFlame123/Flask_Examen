@@ -1,0 +1,2 @@
+01:02:11.657: (I)  1140: main()                                  : Running recorder instance found. Send this arguments and finish this instance. "C:\\Program Files (x86)\\Icecream Screen Recorder 7\\recorder.exe"
+01:02:11.675: (I)  1140: IceApplication::~IceApplication()       : App is finished normally.
